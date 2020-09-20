@@ -1,11 +1,11 @@
 # Kirill Nagorny
 
-###Contacts
+### Contacts
 * art.ngki@gmail.com
 * +375 (29) 103 86 86
 * @ngki
 
-###Summary
+### Summary
 My goal is my education and growth. Now I see this in programming. I would be glad to get the opportunity to get an internship.
 
 ## Education
